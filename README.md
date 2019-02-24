@@ -1,4 +1,4 @@
-# Ruby Array and Object Homework
+# Ruby Array and Hash Homework
 
 ## Objectives:
 - Apply your knowledge of ruby to solve a real world problem.
