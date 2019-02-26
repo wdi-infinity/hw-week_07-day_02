@@ -22,7 +22,7 @@ orange =['North Station','Haymarket','Park Street','State','Downtown Crossing','
         if start_line == end_line # Both dests are in in same line 
             return start_line.index(start_staion) - end_line.index(stop_station) # i'd use abs = absloute here to avoid negative values 
 
-        else puts 'I have no clue what to de here -.-'
+        else puts 'I have no clue what to do here -.-'
        
         end 
         
