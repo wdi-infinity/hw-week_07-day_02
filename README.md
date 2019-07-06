@@ -1,10 +1,12 @@
-# Ruby Array and Hash Homework
+# Homework: Ruby Array and Hash Homework
 
 ## Objectives:
+
 - Apply your knowledge of ruby to solve a real world problem.
 - Get really good at array manipulation.
 
 ## Activity
+
 Create a program that models a subway system.
 
 The program takes the line and stop that a user is getting on at and the line and stop that user is getting off at and prints the journey and the total number of stops for the trip in the console:
